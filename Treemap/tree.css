@@ -1,0 +1,16 @@
+/* styles.css */
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+#tree-map {
+  width: 800px;
+  height: 600px;
+  margin: 20px auto;
+}
+
+.legend-item {
+  display: inline-block;
+  margin-right: 10px;
+}
